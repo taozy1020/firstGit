@@ -8,3 +8,7 @@ Creating a new branch is quick.
 test branch
 
 2nd developer add a new line.
+
+tao change the file at 23:13:56
+
+2nd developer change at 23:32.
