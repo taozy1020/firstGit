@@ -6,3 +6,5 @@ Git is free software
 -----------------------------------------------------------------------------
 Creating a new branch is quick.
 test branch
+
+2nd developer add a new line.
